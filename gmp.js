@@ -38,5 +38,8 @@ function getOrigins(hit_me) {
 }
 
 module.exports = {
-	getPlaceDetails: getPlaceDetails
+	getPlaceDetails: getPlaceDetails,
+	getDirections: getDirections,
+	getOrigins: getOrigins,
+	getPlacePhotos: getPlacePhotos
 }
